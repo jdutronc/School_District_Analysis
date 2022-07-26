@@ -21,7 +21,10 @@ Updated District Summary                 |
 ![](Resources/District_Summary_2.png)    |
 
 <br>
+
 ### School Summary
+
+As shown in th table below (as expected), the results for Thomas High School are impacted by the change.
 
 Original School Summary                         |
 :----------------------------------------------:|
