@@ -100,7 +100,7 @@ And finally, the summary by school type remains unchanged as well :
 
 After replacing all math and reading scores for ninth graders at Thomas High School with NaN values pending investigation, the four key takeaways of the updated analysis are :
 
-1- The average math score across the district is down, as well as the percentage of students passing math, passing reading and passing overall.
-2- The percentages of Thomas High School students passing math, passing reading and passing overall rose sharply.
-3- Thomas High School is now one of the top schools in the district in terms of the proportion of students passing math (from 9th to 7th place), passing reading (from 15th to 3rd place) and passing overall both math and reading (from 8th to 2nd).
-4- All other metrics and summaries reamin unchanged.
+1. The average math score across the district is down, as well as the percentage of students passing math, passing reading and passing overall.
+2. The percentages of Thomas High School students passing math, passing reading and passing overall rose sharply.
+3. Thomas High School is now one of the top schools in the district in terms of the proportion of students passing math (from 9th to 7th place), passing reading (from 15th to 3rd place) and passing overall both math and reading (from 8th to 2nd).
+4. All other metrics and summaries reamin unchanged.
