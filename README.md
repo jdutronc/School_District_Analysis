@@ -12,7 +12,7 @@ Now the School Board has notified Maria that the source data we bsed our analysi
 
 ### District Summary
 
-As shown in the table below, removing math and reading grades for all nine graders at Thomas High School did have an impact at the school district level. Averages scores across the district are down
+As shown in the table below, removing math and reading grades for all nine graders at Thomas High School did have an impact at the school district level. The average math score across the district is down, as well as the percentage of students passing math, passing reading and passing overall.
 
 Original District Summary                |
 :---------------------------------------:|
