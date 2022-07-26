@@ -37,6 +37,8 @@ Updated School Summary                          |
 ### THS performance Relative to Other Schools
 
 <img align="right" src="Resources/THS_Ranking.png" width="400">
+The table attached here on the right shows that the performance of Thomas High School students relative to other schools appreciated significantly after removing the grades of the ninth graders.
+
 
 <br>
 
