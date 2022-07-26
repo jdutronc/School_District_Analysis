@@ -51,6 +51,21 @@ Original Average Math Scores                                     | Updated Avera
 Original Average Reading Scores                                  | Updated Average Reading Scores                                  |
 ![]("Resources/Reading_Scores_by_Grade_1.png" width="200")       | ![]("Resources/Reading_Scores_by_Grade_2.png" width="200")      |
 
+<table>
+  <tr>
+    <td> <img src="Resources/Math_Scores_by_Grade_1.png"  width = 200px></td>
+
+    <td> <img src="Resources/Math_Scores_by_Grade_2.png" width = 200px></td>
+   </tr> 
+   <tr>
+      <td><img src="Resources/Reading_Scores_by_Grade_1.png" width = 200px></td>
+
+      <td><img src="Resources/Reading_Scores_by_Grade_2.png" width = 200px>
+  </td>
+  </tr>
+</table>
+
+
 ### Scores by School Spending
 
 
