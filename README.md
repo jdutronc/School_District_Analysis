@@ -70,7 +70,9 @@ As shown in the table below, all math and reading grades for all schools remain 
 
 As shown in the table below, the summary by school spending remains unchanged, since the key budget metrics remained unchanged above :
 
-<img align="center" src="Resources/Spending_Range_per_Student_1.png" height="150">
+<p align="center">
+  <img height="100" src="Resources/Spending_Range_per_Student_1.png">
+</p>
 
 <br/>
 
@@ -78,7 +80,9 @@ As shown in the table below, the summary by school spending remains unchanged, s
 
 Similarly, the summary by school size remains unchanged :
 
-<img align="center" src="Resources/Summary_by_School_Size_1.png" height="150">
+<p align="center">
+  <img height="100" src="Resources/Summary_by_School_Size_1.png">
+</p>
 
 <br/>
 
@@ -86,7 +90,9 @@ Similarly, the summary by school size remains unchanged :
 
 And finally, the summary by school type remains unchanged as well :
 
-<img align="center" src="Resources/Summary_by_School_Type_1.png" height="100">
+<p align="center">
+  <img height="100" src="Resources/Summary_by_School_Type_1.png">
+</p>
 
 <br/>
 
