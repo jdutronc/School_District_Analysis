@@ -46,7 +46,7 @@ The table attached here on the right shows that the performance of Thomas High S
 ### Average Math and Reading Scores
 
 <table align="right">
-  <tr>
+  <tr height=100px>
     <th>Original Math Scores by Grade</th>
     <th>Updated Math Scores by Grade</th>
     <th>Original Reading Scores by Grade</th>
