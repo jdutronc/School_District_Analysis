@@ -57,15 +57,12 @@ As shown in the table below, all math and reading grades for all schools remain 
     <th>Updated<br>Reading Scores<br>by Grade</th>
   </tr>
   <tr>
-    <td> <img src="Resources/Math_Scores_by_Grade_1.png" width = 150px>
-    <td> <img src="Resources/Math_Scores_by_Grade_2.png" width = 150px>
-    <td> <img src="Resources/Reading_Scores_by_Grade_1.png" width = 150px></td>
-    <td> <img src="Resources/Reading_Scores_by_Grade_2.png" width = 150px></td>
+    <td> <img src="Resources/Math_Scores_by_Grade_1.png" width = 200px>
+    <td> <img src="Resources/Math_Scores_by_Grade_2.png" width = 200px>
+    <td> <img src="Resources/Reading_Scores_by_Grade_1.png" width = 200px></td>
+    <td> <img src="Resources/Reading_Scores_by_Grade_2.png" width = 200px></td>
   </tr>
 </table>
-
-<br/>
-<br/>
 
       
 ### Scores by School Spending
