@@ -12,9 +12,13 @@ Now the School Board has notified Maria that the source data we bsed our analysi
 
 ### District Summary
 
-Original Summary                         |  Updated Summary 
-:---------------------------------------:|:---------------------------------------:
-![](Resources/District_Summary_1.png)    | ![](Resources/District_Summary_2.png)
+Original Summary                         |
+:---------------------------------------:|
+![](Resources/District_Summary_1.png)    |
+:---------------------------------------:|
+Updated Summary                          |
+:---------------------------------------:|
+![](Resources/District_Summary_2.png)    |
 
 
 ### School Summary
