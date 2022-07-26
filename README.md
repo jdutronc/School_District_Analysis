@@ -12,10 +12,12 @@ Now the School Board has notified Maria that the source data we bsed our analysi
 
 ### District Summary
 
-Original Summary                         |
+As shown in the table below, removing math and reading grades for all nine graders at Thomas High School did have an impact at the school district level. Averages scores across the district are down
+
+Original District Summary                |
 :---------------------------------------:|
 ![](Resources/District_Summary_1.png)    |
-Updated Summary                          |
+Updated District Summary                 |
 ![](Resources/District_Summary_2.png)    |
 
 
