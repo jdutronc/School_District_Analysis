@@ -47,12 +47,8 @@ The table attached here on the right shows that the performance of Thomas High S
 
 <table align="right">
   <tr>
-    <td> <img src="Resources/Math_Scores_by_Grade_1.png"  width = 100px></td>
-    <td> <img src="Resources/Math_Scores_by_Grade_2.png" width = 100px></td>
-  </tr>
-  <tr>
-    <td> <img src="Resources/Reading_Scores_by_Grade_1.png" width = 100px></td>
-    <td> <img src="Resources/Reading_Scores_by_Grade_2.png" width = 100px></td>
+    <td> <img src="Resources/Math_Scores_by_Grade_1.png"  width = 100px><img src="Resources/Reading_Scores_by_Grade_1.png" width = 100px></td>
+    <td> <img src="Resources/Math_Scores_by_Grade_2.png" width = 100px><img src="Resources/Reading_Scores_by_Grade_2.png" width = 100px></td>
   </tr>
 </table>
 
