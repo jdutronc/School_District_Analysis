@@ -24,7 +24,7 @@ Updated District Summary                 |
 
 ### School Summary
 
-As shown in the table below (and as expected), the results for Thomas High School are impacted by the change. Average scores in math and reading are slightly down and slightly up respectively, but the percentage of students passing math, passing reading and passing overall fell sharply from over 90% down to the 65%-70% range.
+As shown in the table below (and as expected), the results for Thomas High School are impacted by the change. Average scores in math and reading are slightly down and slightly up respectively, but the percentage of students passing math, passing reading and passing overall rose sharply from the 65%-70% range to over 90%.
 
 Original School Summary                         |
 :----------------------------------------------:|
