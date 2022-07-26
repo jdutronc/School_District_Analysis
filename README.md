@@ -68,9 +68,9 @@ As shown in the table below, all math and reading grades for all schools remain 
       
 ### Scores by School Spending
 
-As shown in the table below, the metrics by school spending remain unchanged, since the key budget metrics remained unchanged above :
+As shown in the table below, the summary by school spending remains unchanged, since the key budget metrics remained unchanged above :
 
-<img align="center" src="Resources/Spending_Range_per_Student_1.png" height="150">
+<img align="centre" src="Resources/Spending_Range_per_Student_1.png" height="150">
 
 
 ### Scores by School Type
