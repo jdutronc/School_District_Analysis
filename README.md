@@ -12,6 +12,10 @@ Now the School Board has notified Maria that the source data we bsed our analysi
 
 ### District Summary
 
+Original Code              |  Refactored Code
+:-------------------------:|:-------------------------:
+![](Resources/2017.png)    | ![](Resources/VBA_Challenge_2017.png)
+
 
 ### School Summary
 
