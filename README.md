@@ -47,6 +47,8 @@ The table attached here on the right shows that the performance of Thomas High S
 
 As shown in the table below, all math and reading grades for all schools remain unchanged with the exception of the math and reading grades for ninth graders at Thomas High School that we have replaced with NaN values. (click to enlarge the pictures)
 
+<br/>
+
 <table align="center">
   <tr height=50px>
     <th>Original<br>Math Scores<br>by Grade</th>
@@ -62,11 +64,6 @@ As shown in the table below, all math and reading grades for all schools remain 
   </tr>
 </table>
 
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 <br/>
 <br/>
 <br/>
