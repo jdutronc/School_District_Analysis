@@ -82,6 +82,11 @@ Similarly, the summary by school size remains unchanged :
 
 ### Scores by School Type
 
+And finally, the summary by school type remains unchanged as well :
+
+<img align="center" src="Resources/Summary_by_School_Type_1.png" height="150">
+
+<br/>
 
 ## Summary
 
