@@ -47,14 +47,16 @@ The table attached here on the right shows that the performance of Thomas High S
 
 <table align="right">
   <tr height=50px>
-    <th>Original<br>Math Scores by Grade</th>
-    <th>Updated<br>Math Scores by Grade</th>
-    <th>Original<br>Reading Scores by Grade</th>
-    <th>Updated<br>Reading Scores by Grade</th>
+    <th>Original<br>Math Scores<br>by Grade</th>
+    <th>Updated<br>Math Scores<br>by Grade</th>
+    <th>Original<br>Reading Scores<br>by Grade</th>
+    <th>Updated<br>Reading Scores<br>by Grade</th>
   </tr>
   <tr>
-    <td> <img src="Resources/Math_Scores_by_Grade_1.png" width = 150px> <td> <img src="Resources/Reading_Scores_by_Grade_1.png" width = 150px></td>
-    <td> <img src="Resources/Math_Scores_by_Grade_2.png" width = 150px> <td> <img src="Resources/Reading_Scores_by_Grade_2.png" width = 150px></td>
+    <td> <img src="Resources/Math_Scores_by_Grade_1.png" width = 150px>
+    <td> <img src="Resources/Math_Scores_by_Grade_2.png" width = 150px>
+    <td> <img src="Resources/Reading_Scores_by_Grade_1.png" width = 150px></td>
+    <td> <img src="Resources/Reading_Scores_by_Grade_2.png" width = 150px></td>
   </tr>
 </table>
 
