@@ -75,7 +75,7 @@ As shown in the table below, the summary by school spending remains unchanged, s
 
 ### Scores by School Size
 
-<img align="center" src="Resources/Scores_by_School Size_1.png" height="150">
+<img align="center" src="Resources/Summary_by_School Size_1.png" height="150">
 
 ### Scores by School Type
 
