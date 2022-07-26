@@ -8,3 +8,29 @@ We have created:
 - tables presenting top 5 and bottom 5 performing schools, average math and reading scores per grade and per school, and school performance based on the budget per student, school size and type of school.
 Now the School Board has notified Maria that the source data we bsed our analysis on shows evidence of academic dishonesty at Thomas High School. We have to replace math and reading grades for all ninth graders at THS with NaNs and run our analysis again.
 
+## Results of the Updated Analysis
+
+### District Summary
+
+
+### School Summary
+
+
+### THS performance Relative to Other Schools
+
+
+### Average Math and Reading Scores
+
+
+### Scores by School Spending
+
+
+### Scores by School Type
+
+
+## Summary
+
+1-
+2- 
+3- 
+4- 
