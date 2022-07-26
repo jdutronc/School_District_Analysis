@@ -20,9 +20,14 @@ Original District Summary                |
 Updated District Summary                 |
 ![](Resources/District_Summary_2.png)    |
 
-
+<br>
 ### School Summary
 
+Original School Summary                         |
+:----------------------------------------------:|
+![](Resources/Per_School_Summary_Tail_1.png)    |
+Updated School Summary                          |
+![](Resources/Per_School_Summary_Tail_2.png)    |
 
 ### THS performance Relative to Other Schools
 
