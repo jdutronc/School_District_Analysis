@@ -64,6 +64,7 @@ As shown in the table below, all math and reading grades for all schools remain 
   </tr>
 </table>
 
+<br/>
       
 ### Scores by School Spending
 
