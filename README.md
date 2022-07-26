@@ -68,6 +68,13 @@ As shown in the table below, all math and reading grades for all schools remain 
       
 ### Scores by School Spending
 
+As shown in the table below
+
+Original Scores by School Spending Summary      |
+:----------------------------------------------:|
+![](Resources/Spending_Range_per_Student_1.png) |
+Updated Scores by School Spending Summary       |
+![](Resources/Spending_Range_per_Student_2.png) |
 
 ### Scores by School Type
 
