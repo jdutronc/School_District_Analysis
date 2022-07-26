@@ -39,6 +39,7 @@ Updated School Summary                          |
 <img align="right" src="Resources/THS_Ranking.png" width="300">
 The table attached here on the right shows that the performance of Thomas High School students relative to other schools appreciated significantly after removing the grades of the ninth graders. The average math and reading scores remained the same (see above) and so does the ranking of the school relative to others, but we can see that Thomas High School is now one of the top schools in the district in terms of the proportion of students passing math (from 9th to 7th place), passing reading (from 15th to 3rd place) and passing overall both math and reading (from 8th to 2nd).
 
+<br>
 
 <br>
 
