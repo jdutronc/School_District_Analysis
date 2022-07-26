@@ -36,7 +36,7 @@ Updated School Summary                          |
 
 ### THS performance Relative to Other Schools
 
-<img src="Resources/THS_Ranking.png width=300>
+<img align="right" src="Resources/THS_Ranking.png" width="300">
 
 <br>
 
