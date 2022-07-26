@@ -58,9 +58,9 @@ Original Average Reading Scores                                  | Updated Avera
     <td> <img src="Resources/Math_Scores_by_Grade_2.png" width = 200px></td>
    </tr> 
    <tr>
-      <td><img src="Resources/Reading_Scores_by_Grade_1.png" width = 200px></td>
+      <td> <img src="Resources/Reading_Scores_by_Grade_1.png" width = 200px></td>
 
-      <td><img src="Resources/Reading_Scores_by_Grade_2.png" width = 200px>
+      <td> <img src="Resources/Reading_Scores_by_Grade_2.png" width = 200px>
   </td>
   </tr>
 </table>
